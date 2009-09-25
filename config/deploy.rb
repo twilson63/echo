@@ -1,5 +1,5 @@
 # set to the name of git remote you intend to deploy to
-set :remote, "origin"
+set :remote, "staging"
 # specify the deployment branch
 set :branch, "master"
 # sudo will only be used to create the deployment directory
